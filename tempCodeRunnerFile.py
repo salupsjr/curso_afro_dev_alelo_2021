@@ -1,4 +1,4 @@
-    par_impar = input("Escolha PAR ou IMPAR: ")[0]
-
-    maquina  = randrange(11)
-    soma = usuario + maquina
+sleep(3)
+print("JOGO EM ANDAMENTO AGUARDE...")
+sleep(2)
+print("JOGO FINALIZADO!")
